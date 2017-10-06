@@ -27,13 +27,7 @@
    </plugins>
   </build>
 
-  <parent>
-     <groupId>tr</groupId>
-     <artifactId>flipkart</artifactId>
-     <version>2.0</version>
-   </parent>
-
-  <name>flipkart</name>
+   <name>Amazon</name>
   <url>http://maven.apache.org</url>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
